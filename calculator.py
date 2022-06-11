@@ -1,3 +1,5 @@
+#Program to impliment a simple calculator
+
 print("\t\tCALCULATOR")
 n1=int(input("Enter the first number:"))
 n2=int(input("Enter the second number:"))
