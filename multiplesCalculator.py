@@ -1,3 +1,5 @@
+#Program to find multiples of a number.
+
 k=1
 while(k<=70):
     print("#",end="")
