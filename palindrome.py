@@ -1,3 +1,5 @@
+#Program to check whether a string is palindrome or not.
+
 x=input("enter the string:")
 is_palindrome=False
 i=0
