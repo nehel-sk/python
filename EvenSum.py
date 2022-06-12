@@ -1,3 +1,5 @@
+#Program to find the sum of even numbers in a given sequence.
+
 l=int(input("Enter the limit of the sequence:"))
 i=1
 sum=0
