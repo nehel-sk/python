@@ -1,3 +1,5 @@
+#Simple game using random library.
+
 import random
 
 flowers=["lilly","rose","jasmine","lotus"]
