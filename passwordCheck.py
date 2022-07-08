@@ -1,3 +1,13 @@
+'''
+To Write a Python program to check the validity of a password given by the user.The Password should satisfy the following criteria:
+1. Contains at least one letter between a and z
+2. Contains at least one number between 0 and 9
+3. Contains at least one letter between A and Z
+4. Contains at least one special character from $, #, @
+5. Minimum length of password: 6
+
+'''
+
 d=0
 u=0
 l=0
