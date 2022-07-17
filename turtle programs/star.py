@@ -1,3 +1,5 @@
+#Turtle program to print a star.
+
 import turtle as tr
 star=tr.Turtle()
 star.color("green")
