@@ -1,3 +1,5 @@
+#Turtle program to print a polygon
+
 import turtle as t
 h=t.Turtle()
 
